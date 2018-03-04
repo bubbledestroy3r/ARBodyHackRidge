@@ -31,8 +31,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -41,5 +39,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSHealthShareUsageDescription</key>
+	<string>&quot;Do you allow this app to access your health data?&quot;</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>&quot;Do you allow this app to update your HealthKit data?&quot;</string>
+	<key>NSCameraUsageDescription</key>
+	<string>&quot;Do you allow this app to use the camera?&quot;</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>&quot;Do you allow this app to access the microphone?&quot;</string>
+	<key>NSMotionUsageDescription</key>
+	<string>&quot;Do you allow this app to track your motion?&quot;</string>
 </dict>
 </plist>
